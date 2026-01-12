@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate front end developer working on library react. I have knowledge about Mysql and mongodb
+I am a passionate front end developer working on library react. I have worked on Mysql and mongodb. Currently studying Node.js which I find very interesting.
 
 
 ## 🌐 Socials:
