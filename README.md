@@ -116,12 +116,16 @@ I am a Software Engineer from Islamabad, Pakistan, with a strong interest in com
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmerTanveerofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=7b2ff7&text_color=c9d1d9" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=OmerTanveerofficial&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=7b2ff7&currStreakLabel=00d4aa" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmerTanveerofficial&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4aa&line=7b2ff7&point=00d4aa&area=true&area_color=7b2ff7" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerTanveerofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" width="40%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=OmerTanveerofficial&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=7b2ff7&currStreakLabel=00d4aa" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=OmerTanveerofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=7b2ff7&text_color=c9d1d9&include_all_commits=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OmerTanveerofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8" width="40%" />
 </p>
 
 ---
