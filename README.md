@@ -52,6 +52,18 @@ I am a Software Engineer from Islamabad, Pakistan, with a strong interest in com
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">SmartTraffic AI</h3>
+      <p align="center">
+        <a href="https://github.com/OmerTanveerofficial/SmartTraffic-AI-OmerTanveer">
+          <img src="https://img.shields.io/badge/Code-ff6b35?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://smarttraffic-ai-murex.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-ff4d6d?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Intelligent traffic monitoring with YOLOv8 vehicle detection, tracking, speed estimation, congestion analysis, and heatmap generation.</p>
+    </td>
+    <td width="50%">
       <h3 align="center">Python DSA</h3>
       <p align="center">
         <a href="https://github.com/OmerTanveerofficial/python-dsa">
@@ -60,6 +72,8 @@ I am a Software Engineer from Islamabad, Pakistan, with a strong interest in com
       </p>
       <p align="center">Comprehensive data structures and algorithms library covering sorting, searching, trees, graphs, dynamic programming, greedy algorithms, and backtracking.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">E-Commerce Platform</h3>
       <p align="center">
