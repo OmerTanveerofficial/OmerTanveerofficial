@@ -1,27 +1,131 @@
-# 💫 About Me:
-I am a passionate front end developer working on library react. I have worked on Mysql and mongodb. Currently studying Node.js which I find very interesting.
+<h1 align="center">Omer Tanveer</h1>
 
+<p align="center">
+  <strong>Software Engineer | Computer Vision | Machine Learning | Full-Stack Development</strong>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omertanveer66@yahoo.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omer_tanveer.93) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omer-tanveer-1b71a6324/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omertanveer135@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OmerTanveerofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OmerTanveerofficial&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerTanveerofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OmerTanveerofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OmerTanveerofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/omer-tanveer-1b71a6324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:omertanveer135@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://omerportfolio-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OmerTanveerofficial&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About Me
+
+I am a Software Engineer from Islamabad, Pakistan, with a strong interest in computer vision, machine learning, and systems programming. I build real-time applications that combine signal processing with modern web technologies. Currently seeking MSc opportunities in Computer Science in Germany to deepen my expertise in applied AI and software engineering.
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">VitalSense</h3>
+      <p align="center">
+        <a href="https://github.com/OmerTanveerofficial/VitalSense">
+          <img src="https://img.shields.io/badge/Code-7b2ff7?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://vitalsense-demo.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-00d4aa?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Contactless health monitor that measures heart rate, breathing, SpO2, stress, and eye fatigue using just a webcam. Built with rPPG signal processing, MediaPipe, and Flask.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Facial Recognition System</h3>
+      <p align="center">
+        <a href="https://github.com/OmerTanveerofficial/Facial-Recognition-System">
+          <img src="https://img.shields.io/badge/Code-ff4d6d?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Real-time face detection, recognition, emotion analysis, and age/gender estimation using OpenCV DNN, dlib, and Keras CNN with a web dashboard.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Python DSA</h3>
+      <p align="center">
+        <a href="https://github.com/OmerTanveerofficial/python-dsa">
+          <img src="https://img.shields.io/badge/Code-f0c430?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+      <p align="center">Comprehensive data structures and algorithms library covering sorting, searching, trees, graphs, dynamic programming, greedy algorithms, and backtracking.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">E-Commerce Platform</h3>
+      <p align="center">
+        <a href="https://github.com/OmerTanveerofficial/e-comm">
+          <img src="https://img.shields.io/badge/Code-45b7d1?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Full-stack e-commerce application with React, Tailwind CSS, and Node.js featuring product catalog, authentication, and responsive design.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / Machine Learning**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![dlib](https://img.shields.io/badge/dlib-008000?style=flat-square&logoColor=white)
+
+**Web Development**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmerTanveerofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=7b2ff7&text_color=c9d1d9" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=OmerTanveerofficial&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=7b2ff7&currStreakLabel=00d4aa" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerTanveerofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" width="40%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OmerTanveerofficial&style=flat-square&color=00d4aa" />
+</p>
