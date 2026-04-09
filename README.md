@@ -20,7 +20,7 @@
 
 ### About Me
 
-I am a Software Engineer from Islamabad, Pakistan, with a strong interest in computer vision, machine learning, and systems programming. I build real-time applications that combine signal processing with modern web technologies. Currently seeking MSc opportunities in Computer Science in Germany to deepen my expertise in applied AI and software engineering.
+I am a Software Engineer from Islamabad, Pakistan, with a strong interest in computer vision, machine learning, and systems programming. I build real-time applications that combine signal processing with modern web technologies. Currently seeking MSc opportunities in Computer Science to deepen my expertise in applied AI and software engineering.
 
 ---
 
@@ -41,6 +41,20 @@ I am a Software Engineer from Islamabad, Pakistan, with a strong interest in com
       <p align="center">Contactless health monitor that measures heart rate, breathing, SpO2, stress, and eye fatigue using just a webcam. Built with rPPG signal processing, MediaPipe, and Flask.</p>
     </td>
     <td width="50%">
+      <h3 align="center">WorkPulse</h3>
+      <p align="center">
+        <a href="https://github.com/OmerTanveerofficial/WorkPulse-OmerTanveer">
+          <img src="https://img.shields.io/badge/Code-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://workpulse-portal.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Full-stack MERN task management portal with role-based access for Workers, Managers, and Admins. Features Kanban board, priority system, and team analytics.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">Facial Recognition System</h3>
       <p align="center">
         <a href="https://github.com/OmerTanveerofficial/Facial-Recognition-System">
@@ -49,8 +63,6 @@ I am a Software Engineer from Islamabad, Pakistan, with a strong interest in com
       </p>
       <p align="center">Real-time face detection, recognition, emotion analysis, and age/gender estimation using OpenCV DNN, dlib, and Keras CNN with a web dashboard.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">SmartTraffic AI</h3>
       <p align="center">
@@ -63,6 +75,8 @@ I am a Software Engineer from Islamabad, Pakistan, with a strong interest in com
       </p>
       <p align="center">Intelligent traffic monitoring with YOLOv8 vehicle detection, tracking, speed estimation, congestion analysis, and heatmap generation.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">Python DSA</h3>
       <p align="center">
@@ -70,10 +84,8 @@ I am a Software Engineer from Islamabad, Pakistan, with a strong interest in com
           <img src="https://img.shields.io/badge/Code-f0c430?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
-      <p align="center">Comprehensive data structures and algorithms library covering sorting, searching, trees, graphs, dynamic programming, greedy algorithms, and backtracking.</p>
+      <p align="center">Comprehensive data structures and algorithms library — sorting, searching, trees, graphs, dynamic programming, greedy algorithms, and backtracking.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">E-Commerce Platform</h3>
       <p align="center">
@@ -107,23 +119,24 @@ I am a Software Engineer from Islamabad, Pakistan, with a strong interest in com
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![dlib](https://img.shields.io/badge/dlib-008000?style=flat-square&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
 **Web Development**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Tools & Platforms**
+**Databases & Tools**
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
